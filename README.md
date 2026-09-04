@@ -2,7 +2,7 @@
 
 پیام‌رسان وب بلادرنگ با رابط کاربری حرفه‌ای، پیام‌رسانی متنی و رسانه‌ای، وضعیت آنلاین/Seen و رمزنگاری End-to-End.
 
-> این README بر اساس ساختار و قابلیت‌های نسخه فعلی پروژه نوشته شده است. مسیرها و نام فایل‌ها را مطابق پروژه نگه دارید.
+> chat-app, real-time-chat, messaging-app, nextjs, nestjs, socket-io, websocket, typescript, e2e-encryption, full-stack
 
 ---
 
