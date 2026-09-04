@@ -1,4 +1,4 @@
-
+"use client";
 import { useEffect,useMemo,useRef,useState } from "react";
 import type { ChangeEvent, FormEvent, ReactNode } from "react";
 import { io,Socket } from "socket.io-client";
